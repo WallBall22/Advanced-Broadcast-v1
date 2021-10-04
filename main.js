@@ -15,7 +15,7 @@ client.on("ready", () => {
 
     console.log(`Logged in as: ${client.user.tag}`);
     console.log(`-> Servers / Members: ${client.guilds.cache.size} server / ${client.users.cache.size} member`);
-    console.log(`Developer: Amir.#0001`);
+    console.log(`Developer: !           𝙈𝙀𝙍𝙊         ♫#5769`);
 
 });
 
